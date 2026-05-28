@@ -27,3 +27,11 @@ Make sure you have Python installed alongside `numpy`.
 3.Run the application:
    ```bash
     python Numgame.py   
+🎮 How To Play
+The game automatically generates a hidden 4-digit sequence upon launch.
+
+Type your 4-digit guess into the central input field and hit Submit Guess.
+
+Analyze the color hints in the Previous Guesses log.
+
+Crack the code before you run out of your 4 attempts!
