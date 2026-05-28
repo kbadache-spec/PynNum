@@ -1,7 +1,6 @@
 import tkinter as tk
 import numpy as np
 
-
 ##Generate Number
 c=np.random.randint(0,10,(1,4))
 print(c)
