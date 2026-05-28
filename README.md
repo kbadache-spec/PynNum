@@ -20,7 +20,7 @@ Make sure you have Python installed alongside `numpy`.
 1. Clone this repository:
    ```bash
    git clone [https://github.com/kbadache-spec/PynNum.git](https://github.com/kbadache-spec/PynNum.git)
-   cd tkinter-number-guesser
+   cd PynNum
 2. Install dependencies:
    ```bash
    pip install numpy
