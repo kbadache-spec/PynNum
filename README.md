@@ -28,7 +28,6 @@ Make sure you have Python installed alongside `numpy`.
     ```bash
     python Numgame.py  
 
-
 ## 🎮 How To Play
 
 
