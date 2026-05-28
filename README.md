@@ -25,7 +25,7 @@ Make sure you have Python installed alongside `numpy`.
    ```bash
    pip install numpy
 3.Run the application:
-   ```bash
+    ```bash
     python Numgame.py   
 🎮 How To Play
 The game automatically generates a hidden 4-digit sequence upon launch.
