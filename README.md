@@ -26,7 +26,7 @@ Make sure you have Python installed alongside `numpy`.
    pip install numpy
 3.Run the application:
    ```bash
-   python Numgame.py   
+    python Numgame.py```   
 
 
 ## 🎮 How To Play
