@@ -24,7 +24,7 @@ Make sure you have Python installed alongside `numpy`.
 2. Install dependencies:
    ```bash
    pip install numpy
-3.Run the application:
+3. Run the application:
     ```bash
     python Numgame.py  
 
