@@ -22,10 +22,8 @@ Make sure you have Python installed alongside `numpy`.
    git clone [https://github.com/kbadache-spec/PynNum.git](https://github.com/kbadache-spec/PynNum.git)
    cd tkinter-number-guesser
 2. Install dependencies:
-  ```bash
-  pip install numpy
-
-
+   ```bash
+   pip install numpy
 3.Run the application:
-  ```bash
+   ```bash
    python Numgame.py   
